@@ -1,4 +1,4 @@
-# XSS 0DAY Mixtape(收集XSS的子弹，有任何建议在微博找我weibo@flagellantX)
+# Too Manay Payload For Xss Fuzzing
 //Bypass All Browser Like Chrome,Firefox,Yandex,all...
 
 PoC obfuscation alternative for alert(1): 
